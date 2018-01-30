@@ -1,0 +1,14 @@
+{
+  "name": "calvetPro",
+  "description": "CalvetPro Services Website",
+  "main": "index.js",
+  "authors": [
+    "Oz DeLeon-Sulecio"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "html5shiv": "^3.7.3"
+  }
+}

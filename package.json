@@ -1,0 +1,15 @@
+{
+  "name": "calvetPro",
+  "version": "1.0.0",
+  "description": "CalvetPro Services Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oz DeLeon-Sulecio",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "file:node_modules/animate.css"
+  }
+}
